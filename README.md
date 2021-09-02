@@ -4,5 +4,5 @@ González Ruvalcaba Luis Donaldo
 Malagón Sánchez Ricardo 
 Pedrero Guillén Ismael Alejandro 
 Pérez Murillo Diego 
-Trejo Atonal Diego 
+#Trejo Atonal Diego 
 
